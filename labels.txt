@@ -1,2 +1,21 @@
-0 Snowflake
-1 Discord
+0 Mango (Fruit)
+1 Apple Rose (Fruit)
+2 Bell Pepper (Fruit)
+3 Dragonfruit (Fruit)
+4 Eggplant (Fruit)
+5 Papaya (Fruit)
+6 Rambutan (Fruit)
+7 Star Fruit (Fruit)
+8 Tomato (Fruit)
+9 Watermelon (Fruit)
+10 Bok Choy (Vegetable)
+11 Broccoli (Vegetable)
+12 Cabbage (Vegetable)
+13 Carrot (Vegetable)
+14 Cauliflower (Vegetable)
+15 Garlic (Vegetable)
+16 Potato (Vegetable)
+17 Red Onion (Vegetable)
+18 White Radish (Vegetable)
+19 Winged Beans (Vegetable)
+20 Background
